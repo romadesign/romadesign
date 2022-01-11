@@ -1,5 +1,13 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, soy ROMA || ROMACODE</h1>
 
+<div> 
+  <a href="https://www.youtube.com/c/ROMACODE/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/romacode/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://roma.ga/" target="_blank"><img src="https://img.shields.io/badge/WebSite-110087?style=for-the-badge&logo=WebSite&logoColor=white" target="_blank"></a> 
+   <a href="https://romadesign.github.io/roma-fullstack/" target="_blank"><img src="https://img.shields.io/badge/Blog-001847?style=for-the-badge&logo=Blog&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:roman247.rg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+</div>
 <a href="https://www.linkedin.com/in/romacode/">
       <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
