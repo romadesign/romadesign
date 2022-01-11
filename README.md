@@ -8,11 +8,7 @@
   <a href = "mailto:roman247.rg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=romadesign&label=Profile%20views&color=0e75b6&style=flat" alt="romacode" /> </p>
 </div>
-<a href="https://www.youtube.com/c/ROMACODE/">
-      <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romadesign&label=Profile%20views&color=0e75b6&style=flat" alt="romacode" /> </p>
-<br />
+
 
 Hola, soy [Roman Gómez](https://roma.ga/), un apasionado desarrollador web autodidacta independiente de Perú. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
