@@ -10,9 +10,6 @@ Hola, soy [Roman Gómez](https://roma.ga/), un apasionado desarrollador web auto
 
 Aprendí mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos puede llegar a ayudar a una persona que recien comienza en el mundo del desarrollo web.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 - 💼 Algún trabajo freelance? [Whatsapp](https://api.whatsapp.com/send?phone=+34603344745) :)
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
