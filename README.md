@@ -6,7 +6,7 @@
    <a href="https://roma.ga/" target="_blank"><img src="https://img.shields.io/badge/WebSite-110087?style=for-the-badge&logo=WebSite&logoColor=white" target="_blank"></a> 
    <a href="https://romadesign.github.io/roma-fullstack/" target="_blank"><img src="https://img.shields.io/badge/Blog-001847?style=for-the-badge&logo=Blog&logoColor=white" target="_blank"></a> 
   <a href = "mailto:roman247.rg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=romadesign&label=Profile%20views&color=0e75b6&style=flat" alt="romacode" /> </p>
+  <a align="left"> <img src="https://komarev.com/ghpvc/?username=romadesign&label=Profile%20views&color=0e75b6&style=flat" alt="romacode" /> </a>
 </div>
 
 
