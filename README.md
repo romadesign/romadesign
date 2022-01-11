@@ -14,9 +14,8 @@ Aprendí mucho de la comunidad de código abierto y me encanta cómo la colabora
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
 **Lenguajes y herramientas::**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -31,11 +30,11 @@ Aprendí mucho de la comunidad de código abierto y me encanta cómo la colabora
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **Esta semana pasé mi tiempo en:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   13 hrs          ███████████████████░░░░░░   75.72 % 
-TypeScript   3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 % 
+Php          7 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 % 
 CSS          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
