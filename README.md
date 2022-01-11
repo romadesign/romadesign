@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/romacode/">
       <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
-![](https://visitor-badge.glitch.me/badge?page_id=romadesign.romadesign) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lflores&label=Profile%20views&color=0e75b6&style=flat" alt="lflores" /> </p>
 
 <br />
 
