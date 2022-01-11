@@ -15,6 +15,7 @@ Aprendí mucho de la comunidad de código abierto y me encanta cómo la colabora
 
 - 💼 Algún trabajo freelance? [Whatsapp](https://api.whatsapp.com/send?phone=+34603344745) :)
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
+<br />
 
 **Lenguajes y herramientas::**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
