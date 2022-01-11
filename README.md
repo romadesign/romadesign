@@ -45,7 +45,7 @@ Mysql        10 hrs          ███░░░░░░░░░░░░░░
 
 📈 Mis estadísticas de github
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=romadesign&show_icons=true&theme=gotham" alt="romacode" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=romadesign&show_icons=true&theme=white" alt="romacode" />
 
 
 
