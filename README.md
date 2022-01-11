@@ -13,7 +13,7 @@ Aprendí mucho de la comunidad de código abierto y me encanta cómo la colabora
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Algún trabajo freelance? llegar, [email](roman247.rg@gmail.com) :)
+- 💼 Algún trabajo freelance? [Whatsapp](https://api.whatsapp.com/send?phone=+34603344745) :)
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
 **languages and tools:**  
