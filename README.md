@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romadesign&label=Profile%20views&color=0e75b6&style=flat" alt="romacode" /> </p>
 <br />
 
-Hola, soy [Roman Gómez](https://roma.ga/), un apasionado desarrollador web autodidacta de pila completa e ingeniero de software independiente de la India. mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
+Hola, soy [Roman Gómez](https://roma.ga/), un apasionado desarrollador web autodidacta independiente de Perú. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Aprendí mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos puede llegar a ayudar a una persona que recien comienza en el mundo del desarrollo web.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
