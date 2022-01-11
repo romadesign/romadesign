@@ -1,4 +1,5 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, soy ROMA || ROMACODE</h1>
+<br />
 
 <div> 
   <a href="https://www.youtube.com/c/ROMACODE/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -8,7 +9,7 @@
   <a href = "mailto:roman247.rg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a align="left"> <img src="https://komarev.com/ghpvc/?username=romadesign&label=Profile%20views&color=0e75b6&style=flat" alt="romacode" /> </a>
 </div>
-
+<br />
 
 Hola, soy [Roman Gómez](https://roma.ga/), un apasionado desarrollador web autodidacta independiente de Perú. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
