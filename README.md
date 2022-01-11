@@ -13,8 +13,8 @@ Aprendí mucho de la comunidad de código abierto y me encanta cómo la colabora
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Algún trabajo freelance? llegar, [email](roman247.rg@gmail.com) :)
+- 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
 **languages and tools:**  
 
